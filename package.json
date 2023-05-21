@@ -15,7 +15,7 @@
   "lint-staged": {
     "*.{js,ts,jsx,tsx}": "eslint --fix",
     "*": "prettier --write --ignore-unknown",
-    "pacakge.json": "sort-package-json"
+    "package.json": "sort-package-json"
   },
   "dependencies": {
     "react": "^18.2.0",
